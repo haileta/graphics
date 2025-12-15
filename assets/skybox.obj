@@ -1,0 +1,41 @@
+# Cube OBJ file converted from vertex array
+# 8 unique vertices of a cube
+v -1.0 -1.0 -1.0
+v 1.0 -1.0 -1.0
+v 1.0 1.0 -1.0
+v -1.0 1.0 -1.0
+v -1.0 -1.0 1.0
+v 1.0 -1.0 1.0
+v 1.0 1.0 1.0
+v -1.0 1.0 1.0
+
+# Texture coordinates
+vt 0.0 0.0
+vt 1.0 0.0
+vt 1.0 1.0
+vt 0.0 1.0
+
+# Faces (using vertex/texture coordinate indices)
+# Back face
+f 1/1 2/2 3/3
+f 3/3 4/4 1/1
+
+# Front face
+f 5/1 6/2 7/3
+f 7/3 8/4 5/1
+
+# Left face
+f 1/2 5/1 8/4
+f 8/4 4/3 1/2
+
+# Right face
+f 6/1 2/2 3/3
+f 3/3 7/4 6/1
+
+# Bottom face
+f 1/4 2/1 6/2
+f 6/2 5/3 1/4
+
+# Top face
+f 4/1 3/2 7/3
+f 7/3 8/4 4/1
