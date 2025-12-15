@@ -1,0 +1,4 @@
+/Users/hailemariamayalneh/Downloads/ASSIGNEMENT -7/cmake-build-debug/CMakeFiles/glad.dir
+/Users/hailemariamayalneh/Downloads/ASSIGNEMENT -7/cmake-build-debug/CMakeFiles/demo.dir
+/Users/hailemariamayalneh/Downloads/ASSIGNEMENT -7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hailemariamayalneh/Downloads/ASSIGNEMENT -7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
